@@ -121,7 +121,6 @@ Data Science | Machine Learning | Artificial Intelligence
 
 Passionate about building Machine Learning solutions and exploring healthcare analytics through data-driven approaches.
 
-LinkedIn: https://www.linkedin.com/in/aaisha-memon-494359367
 
 ---
 
